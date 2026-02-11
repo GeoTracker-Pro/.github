@@ -19,7 +19,7 @@ GeoTracker-Pro is an organization focused on practical, secure, and scalable loc
 We welcome contributions! Please follow the CONTRIBUTING guidelines in each repository, keep changes focused, and include clear testing notes in your pull requests.
 
 ## Security
-If you discover a security concern, please use GitHub's **Security** tab to report it privately. For non-sensitive issues, open an issue so we can track it publicly.
+If you discover a security concern, please use the repository's **Security** tab to report it privately. For non-sensitive issues, open an issue so we can track it publicly.
 
 ## License
 Each repository includes its own license. Check the LICENSE file in the project you are using.
